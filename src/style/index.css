@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root {
+  background-image: url('./img/cbday.jpg');
+  background-size: contain;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}

@@ -1,4 +1,8 @@
 .App {
+  margin-top: 5em;
+  min-width: 25em;
+  padding-left: 10em;
+  padding-right: 10em; 
   text-align: center;
 }
 
